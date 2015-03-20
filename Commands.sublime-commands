@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Summary: Summarize Selected Text",
+        "command": "summary"
+    }
+    ]
